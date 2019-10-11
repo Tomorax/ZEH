@@ -1,0 +1,23 @@
+{
+  "name": "zeh",
+  "version": "1.0.0",
+  "description": "pacote em homenagem ao Zé Luis",
+  "main": "inicio.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "testcomm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomorax/ZEH.git"
+  },
+  "author": "Tomorax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomorax/ZEH/issues"
+  },
+  "homepage": "https://github.com/Tomorax/ZEH#readme",
+  "devDependencies": {
+    "electron": "^6.0.12"
+  }
+}
